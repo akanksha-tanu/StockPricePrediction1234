@@ -1,7 +1,3 @@
-consumer_key= 'DHRQ4wLL1wYjbdi4K4U48XFDY'
-consumer_secret= '93ETBSkRs4RQUYwCLo7ThmYNcA2oAULC42DdT1J8WWGqW8t6sM'
 
-access_token='1546383250691858432-UZEZlQlT8tUiIJBGsfhwk3R46SG08I'
-access_token_secret='tusspQ9eBfxcDafPliUJCRhwpYYpnewLJhyzZdJCAqjWf'
 
 num_of_tweets = int(300)
